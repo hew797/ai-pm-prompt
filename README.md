@@ -195,8 +195,10 @@ AI 产品经理：
 
 👉 **扫码进群，和 200+ 开发者一起探索 AI 团队协作**
 
-<!-- 在这里放你的微信群二维码 -->
-<!-- ![扫码进群](./assets/qrcode.png) -->
+<p align="center">
+  <img src="./assets/wechat_qr.jpg" width="300" alt="扫码加入「老何 AI 交流群」" />
+</p>
+<p align="center"><em>微信扫码加入「老何 AI 交流群」，和开发者一起交流</em></p>
 
 ---
 
