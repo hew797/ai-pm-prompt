@@ -217,13 +217,13 @@ AI 产品经理：
 - 🛡️ 质量门禁（代码审查 + 红线检查 + 自动部署）
 - 📋 任务管理系统（跨会话追踪进度）
 
-👉 **扫码进群，和开发者一起探索 AI 团队协作**
+👉 **扫码进群或添加老何微信，和开发者一起探索 AI 团队协作**
 
 <p align="center">
   <img src="./assets/wechat_qr.jpg" width="300" alt="扫码加入「老何 AI 交流群」" style="margin-right: 20px;" />
   <img src="./assets/geren.jpg" width="300" alt="加老何个人微信" />
 </p>
-<p align="center"><em>扫码加入群聊或添加个人微信，和开发者一起交流</em></p>
+<p align="center"><em>左侧扫码加入「老何 AI 交流群」，右侧扫码添加「老何个人微信」进行深度交流</em></p>
 
 ---
 
