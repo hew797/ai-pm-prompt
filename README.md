@@ -220,9 +220,10 @@ AI 产品经理：
 👉 **扫码进群，和开发者一起探索 AI 团队协作**
 
 <p align="center">
-  <img src="./assets/wechat_qr.jpg" width="300" alt="扫码加入「老何 AI 交流群」" />
+  <img src="./assets/wechat_qr.jpg" width="300" alt="扫码加入「老何 AI 交流群」" style="margin-right: 20px;" />
+  <img src="./assets/geren.jpg" width="300" alt="加老何个人微信" />
 </p>
-<p align="center"><em>微信扫码加入「老何 AI 交流群」，和开发者一起交流</em></p>
+<p align="center"><em>扫码加入群聊或添加个人微信，和开发者一起交流</em></p>
 
 ---
 
